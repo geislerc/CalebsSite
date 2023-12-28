@@ -9,10 +9,14 @@
 
 }
 body {
-    overflow-x:hidden
+    overflow-x:hidden;
 }
 
 .Title {
     padding-bottom: 1%;
     padding-top: 1%;
+}
+.links {
+    margin-left: 1%;
+    margin-right:1%;
 }
